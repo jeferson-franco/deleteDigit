@@ -1,0 +1,20 @@
+{
+  "name": "deletedigit",
+  "version": "1.0.0",
+  "description": "Given some integer, find the maximal number you can obtain by deleting exactly one digit of the given number.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/deleteDigit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/deleteDigit/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/deleteDigit#readme"
+}
